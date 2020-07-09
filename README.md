@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hello](https://media.giphy.com/media/mAJxVnLmZcZMzhyPvO/giphy.gif)
 
 <!--
 **osergioneto/osergioneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
