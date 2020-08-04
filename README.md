@@ -9,7 +9,7 @@ Hi, I'm Sérgio Deusdedith, a Developer from Brazil, student at <br/> [Universid
 Talk to me about
 
 - Front-end development using **React, HTML, Javascript (Typescript), CSS and Bootstrap**
-- Backend development using **Node.js, Express**
+- Backend development using **Node.js, Express, GraphQL**
 - Database using **PosgresQL, MySQL, Redis and MongoDB**
 - Mobile application development using **React Native** (Still learning)
 
