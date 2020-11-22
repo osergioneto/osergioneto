@@ -2,16 +2,15 @@
 
 Full-Stack | Software engineer :robot:
 
-Hi, I'm Sérgio Deusdedith, a Developer from Brazil, student at <br/> [Universidade Salvador](https://www.unifacs.br/). <img align="right" width="400" height="auto" src="https://media.giphy.com/media/mAJxVnLmZcZMzhyPvO/giphy.gif"> Currently working as Backend <br/>Developer at [cubos tecnologia](https://cubos.io/).
+Hi, I'm Sérgio Deusdedith, a Developer from Brazil, student at <br/> [Universidade Salvador](https://www.unifacs.br/). <img align="right" width="400" height="auto" src="https://media.giphy.com/media/13cswZEvNJM7ZK/giphy.gif"> Currently working as Backend <br/>Developer at [Kroton](https://www.kroton.com.br/).
 
 ## ⚡ Technologies
 
 Talk to me about
 
-- Front-end development using **React, HTML, Javascript (Typescript), CSS and Bootstrap**
 - Backend development using **Node.js, Express, GraphQL**
+- Front-end development using **React, HTML, Javascript (Typescript), CSS and Bootstrap**
 - Database using **PosgresQL, MySQL, Redis and MongoDB**
-- Mobile application development using **React Native** (Still learning)
 
 ## Social media :mailbox_with_no_mail:
 
