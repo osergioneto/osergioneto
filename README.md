@@ -2,13 +2,13 @@
 
 Full-Stack | Software engineer :robot:
 
-Hi, I'm Sérgio Deusdedith, a Developer from Brazil, student at <br/> [Universidade Salvador](https://www.unifacs.br/). <img align="right" width="400" height="auto" src="https://media.giphy.com/media/13cswZEvNJM7ZK/giphy.gif"> Currently working as Backend <br/>Developer at [Kroton](https://www.kroton.com.br/).
+Hi, I'm Sérgio Deusdedith, a Developer from Brazil. <img align="right" width="400" height="auto" src="https://media.giphy.com/media/13cswZEvNJM7ZK/giphy.gif"> Currently working as Backend <br/>Developer at [Stone](https://www.stone.com.br/).
 
 ## ⚡ Technologies
 
 Talk to me about
 
-- Backend development using **Node.js, Express, GraphQL**
+- Backend development using **Elixir, Node.js, Express, GraphQL**
 - Front-end development using **React, HTML, Javascript (Typescript), CSS and Bootstrap**
 - Database using **PosgresQL, MySQL, Redis and MongoDB**
 
