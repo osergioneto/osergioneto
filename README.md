@@ -2,7 +2,7 @@
 
 Full-Stack | Software engineer :robot:
 
-Hi, I'm Sérgio Deusdedith, a Developer from Brazil. <img align="right" width="400" height="auto" src="https://media.giphy.com/media/13cswZEvNJM7ZK/giphy.gif"> Currently working as Backend Developer at [Trybe](https://www.betrybe.com/).
+Hi, I'm Sérgio Deusdedith, a Developer from Brazil. <img align="right" width="400" height="auto" src="https://media.giphy.com/media/13cswZEvNJM7ZK/giphy.gif">
 
 ## ⚡ Technologies
 
